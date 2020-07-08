@@ -1,1 +1,1 @@
-Git is amazing for version control.
+The default naming of the "master" branch will soon be replaced with "main" to get rid of the slavery connotations (even though 'slave' hasn't been used by git--it has in other systems though, which AFAIK is where 'master' came from)
